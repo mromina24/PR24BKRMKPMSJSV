@@ -1,4 +1,11 @@
 WorkingHoursWeekly,https://ec.europa.eu/eurostat/databrowser/view/LFSA_EWHUN2__custom_10878334/default/table?lang=en
 EqualityIndex,https://www.worldeconomics.com/Indicator-Data/Inequality/Inequality-Index.aspx
 Inflation,https://ec.europa.eu/eurostat/databrowser/view/tec00118/default/table?lang=en
+<<<<<<< Updated upstream
 Dropouts,https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_14$dv_356/default/table?lang=en&category=qol.qol_edu.qol_educ_ea
+=======
+Unenployment,https://ec.europa.eu/eurostat/databrowser/view/tps00203/default/table?lang=en&category=t_labour.t_employ.t_lfsi.t_une
+migration,https://ec.europa.eu/eurostat/databrowser/view/tps00176__custom_10885196/default/table?lang=en
+Minimal  wage,https://ec.europa.eu/eurostat/databrowser/product/view/tps00155?category=t_labour.t_earn
+workingHours ,https://ec.europa.eu/eurostat/databrowser/view/tps00071__custom_10886062/default/table?lang=en
+>>>>>>> Stashed changes
