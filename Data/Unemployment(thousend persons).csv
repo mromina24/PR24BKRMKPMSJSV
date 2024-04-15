@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Country,2022,2023
 European Union - 27 countries (from 2020),13.279,13.119
 Euro area – 20 countries (from 2023),11.337,11.101
@@ -39,3 +40,46 @@ North Macedonia,:,:
 Albania,:,:
 Serbia,302,299
 Türkiye,:,:
+=======
+Country,2022,2023
+European Union - 27 countries (from 2020),13.279,13.119
+Euro area – 20 countries (from 2023),11.337,11.101
+Belgium,294,294
+Bulgaria,127,132
+Czechia,118,134
+Denmark,139,162
+Germany,1.376,1.336
+Estonia,40,48
+Ireland,119,120
+Greece,588,522
+Spain,3.025,2.894
+France,2.234,2.263
+Croatia,128,104
+Italy,2.027,1.947
+Cyprus,33,30
+Latvia,65,62
+Lithuania,90,106
+Luxembourg,15,18
+Hungary,176,203
+Malta,10,10
+Netherlands,350,359
+Austria,221,241
+Poland,498,493
+Portugal,319,347
+Romania,465,456
+Slovenia,41,38
+Slovakia,170,162
+Finland,190,204
+Sweden,419,438
+Iceland,8,8
+Liechtenstein,:,:
+Norway,96,107
+Switzerland,212,204
+United Kingdom,:,:
+Bosnia and Herzegovina,211,:
+Montenegro,:,:
+North Macedonia,:,:
+Albania,:,:
+Serbia,302,299
+Türkiye,:,:
+>>>>>>> upstream/main
